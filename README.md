@@ -1,6 +1,6 @@
 - <> Hi, I’m @PrasathRvg
-- <> I’m interested in programming
-- <> I’m currently learning python
+- <> I’m a intermediate programmer
+- <> I’m currently learning java
 - <> reach me by mail</>
 
 <!---
