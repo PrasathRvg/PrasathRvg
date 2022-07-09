@@ -1,6 +1,6 @@
 - <> Hi, I’m @PrasathRvg
 - <> I’m a intermediate programmer
-- <> I’m currently learning java
+- <> Dotnet Developer
 - <> reach me by mail</>
 
 <!---
